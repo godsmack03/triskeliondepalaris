@@ -1,2 +1,0 @@
-# triskeliondepalaris
-organization
